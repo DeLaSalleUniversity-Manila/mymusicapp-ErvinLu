@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicPlayerSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="songs">
+        <item>Radioactive</item>
+        <item>Fearless</item>
+        <item>Ang Huling El Bimbo</item>
+    </string-array>
+</resources>
